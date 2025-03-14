@@ -5,12 +5,16 @@ body{
 }
 
 p{
+    background-color: rgba(250, 235, 215, 0.007);
     font-size: 2.5em;
     color: wheat;
+    
 }
 img{
     margin: auto;
     height: 500px;
+    border: 1.5px solid red;
+    box-shadow: 2px 2px 2px red;
 }
 
 h1{

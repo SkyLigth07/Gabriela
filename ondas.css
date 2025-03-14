@@ -1,10 +1,10 @@
 body{
     width: auto;
-    background-image: url(img/background/green-grassy-park-field-outdoors-concept.jpg);
-    background-position: center bottom;
+    background-image: url(img/background/sunset-with-sea.jpg);
+    
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
 }
 p{
     background-color: rgba(41, 38, 38, 0.274);

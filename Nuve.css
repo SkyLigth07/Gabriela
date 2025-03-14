@@ -1,12 +1,14 @@
 body{
-    background-image: url(img/background/beautiful-shining-stars-night-sky.jpg);
+    background-image: url(img/background/green-grassy-park-field-outdoors-concept.jpg);
     background-attachment: fixed;
+    background-size: cover;
 }
 section{
     font-size: 1.5em;
 }
 aside{
     background-image: url(img/Olhos/Olho03.jpg);
+    border-radius: 10px;
     background-position: right top;
     background-repeat: no-repeat;
     background-attachment: fixed;

@@ -1,7 +1,8 @@
 body{
     background-image: url(img/background/vertical-landscape-with-sunflower-field-cloudy-blue-sky.jpg);
     background-position: bottom;
-    background-color: rgb(24, 22, 22);
+    background-color: #181616;
+    background-size: 100vh;
     
     color: antiquewhite;
 }
@@ -54,22 +55,31 @@ header>nav>a:hover{
 
 }
 
+section{
+    background-color: rgba(255, 182, 193, 0.295);
+}
 
 
 
 footer{
     background-color: rgb(37, 37, 37);
     text-align: center;
-    height: 100px;
+    height: 70px;
 
+}
+footer>p{
+    margin-top: 10px;
+    padding: 10px;
+    color: antiquewhite;
 }
 footer>a{
     
     
     color: white;
     text-decoration: none;
+    background-color: palevioletred;
     border: 5px 5px purple;
-    border-radius: 5px;
+    border-radius: 100px;
 }
 footer>a:hover{
 
@@ -78,7 +88,7 @@ footer>a:hover{
 }
 
 p{
-    color: wheat;
+    color: rgb(53, 53, 53);
     font-size: 2.5em;
     text-indent:3px;
 }
